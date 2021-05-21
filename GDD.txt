@@ -1,0 +1,109 @@
+﻿Project Description
+This game design document describes the details for a keyboard and mouse based shooter game with smooth mechanics and a spaceship whose job is to survive the wave of enemy spacecraft. 
+
+
+This game plays like Asteroids but introduces mouse shooting coordination. 
+
+
+Characters
+Spaceshooter is the player character in the game. He is stranded in space and comes across aggressive enemy spacecrafts who wish for nothing but destruction. 
+
+
+Enemy Spacecrafts are violent and nimble. They are able to pinpoint your location but cannot shoot until they are a certain distance. Typically, until 5 or 4 enemy spacecraft are left, they will attack individually. On the other hand, the smart ones group up at the end as they realize their fire rate is inferior to the Space Shooters fire rate. 
+
+
+Story
+The space shooter is a man on a mission to find life outside of Earth as the expiration date for Earth has drawn close. Unfortunately, he comes across unfriendly aliens who do not bother to converse and rather destroy the unknown entity. 
+
+
+Theme
+This game is about sadness and survival of the fittest. A single human whose task was to bring any valuable information in hopes for Earth’s survival , comes across devastating information as aliens seem to not want anything to do with the human but destruction. 
+
+
+Story Progression
+The game begins when a human sees a swarm of spacecrafts and as he approaches, he becomes surrounded by the spacecrafts. 
+
+
+Initially, it appeared as if the leader was coming to speak with him until he saw them fire the same bullet as the space shooter had on his craft. Fortunately, the fire rate was much slower so he was able to deflect the enemy’s shot with his own and blasted the enemy spaceshift away. 
+
+
+After defeating the enemy spaceships, the space shooter is in celebration for escaping with his life. Against all odds, 1 to 20, he survives. 
+
+
+Goals
+Overall(long term): Survive and bring back information to earth. 
+
+
+Gameplay(short term): Defeat and survive against the hostile enemy spacecrafts. 
+
+
+UserSkills
+* Hand coordination
+* WASD movement coordination 
+* Mouse direction coordination
+* Mouse firing 
+* Reflexes
+
+
+Progression and Challenge
+Difficulty advances as time progresses, enemy spawn rates increase overtime but capped at a certain spawn rate to prevent impossible game completion. 
+
+
+Losing
+Losing Conditions: You have 3 lives and once you use all 3 lives, you lose. 
+
+
+When the player loses, a text box “Game Over” appears and you must return back to the Main Menu or move along to the Credits scene. 
+
+
+Art Style
+Arcade, Indie type of video game, with high quality 2D sprites. The enemy spacecrafts are much higher quality as they seem to have already been roaming the galaxy. 
+
+
+Music Sounds
+The music is a retro style song that is arguably unsuitable and yet suitable due to the video game’s retro type of gameplay. 
+
+
+Initially, the video is only playable on a desktop/laptop requiring the use of a mouse and keyboard. Otherwise, the game is much more difficult. 
+
+
+Demographics
+Age: 12 to 40 
+
+
+Sex: Everyone 
+
+
+Aimed towards intermediate computer players 
+
+
+Platforms
+Initially: Free to play on online video game website 
+
+
+In game purchases for new player spaceship 
+
+
+Consider: iPhone/Android, Consoles with two joysticks. 
+
+
+Localization
+Initially English
+Later Update: Korean, Spanish, etc. 
+
+
+Consider publishing in Korea since I am fluent in Korean and my Uncle was once co-CEO of a video game company, Section Studios. Also assisted in defining artistic vision for God of War 1, 2, 3. 
+
+
+Other Ideas
+* Level Designs
+* Achievements
+* Weaponry/Inventory 
+* Leaderboards 
+Credit/Resources
+* Cipher2(Sound) - Youtube Audio 
+* Font: JazzCreateBubble - Asset Store, JazzCreate
+* Graphic: 2D Space Kit - Asset Store, Brett Gregory
+* Graphic: Dynamic Space Background Lite - Asset Store, DinV Studio
+* SplashScene: Splash Screen: Raspberry Pi Full Load - Youtube 
+* SplashScene: Unity Logo - Unity
